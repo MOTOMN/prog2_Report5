@@ -1,3 +1,4 @@
+package jp.ac.uryukyu.ie.e205734;
 public class Report5 {
 
     public static void main(String[] args) throws Exception {
